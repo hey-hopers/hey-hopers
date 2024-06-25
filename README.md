@@ -4,7 +4,7 @@
 <br />
 <br />
 
-###  Sobre
+Sobre
 <br />
 <i>
   
@@ -17,10 +17,10 @@
 </i>
 <br />
 
-### 📊 Estatísticas GitHub
+📊 Estatísticas GitHub
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hey-hopers&layout=compact&theme=dark&border_color=8FBC8F&title_color=BDB76B&text_color=F0FFFF">
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hey-hopers&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 </div>
 <br />
 <div align="center">
